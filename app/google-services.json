@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128616994818",
+    "project_id": "cbi-27-muntasir",
+    "storage_bucket": "cbi-27-muntasir.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128616994818:android:4bfcc5dd2c526feb1daf1b",
+        "android_client_info": {
+          "package_name": "com.example.cbi27muntasir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsykdWSfViVEXNUAcCan4nJrhvGxqxMgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
