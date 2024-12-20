@@ -3,9 +3,13 @@
 **Key Features:**
 
 -->Add new notes with titles and detailed content.
+
 -->View a list of all saved notes.
+
 -->Edit or delete notes with ease.
+
 -->Simple, clean, and responsive design.
+
 -->Uses SQLite database for efficient local data storage.
 
 **This project is perfect for beginners looking to learn Android development, specifically working with SQLite databases, RecyclerViews, and basic CURD operations (Create, Update, Read, Delete).**
